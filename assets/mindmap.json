@@ -1,0 +1,187 @@
+{
+  "name": "The Centre of Bright Beginnings",
+  "children": [
+    {
+      "name": "Defence (35%)",
+      "children": [
+        {
+          "name": "TGA Advertising Compliance",
+          "children": [
+            {
+              "name": "Scar Therapy claims audit"
+            },
+            {
+              "name": "Bowen Therapy claims audit"
+            },
+            {
+              "name": "Shift to compliant language"
+            }
+          ]
+        },
+        {
+          "name": "AI Data Governance",
+          "children": [
+            {
+              "name": "Heidi Health clinical scribe"
+            },
+            {
+              "name": "Explicit consent requirement"
+            },
+            {
+              "name": "Sensitive health data privacy"
+            }
+          ]
+        },
+        {
+          "name": "Professional Boundaries",
+          "children": [
+            {
+              "name": "Medical disclaimer robustness"
+            },
+            {
+              "name": "Somatic vs. allopathic distinction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Identity (30%)",
+      "children": [
+        {
+          "name": "Matrescence Positioning",
+          "children": [
+            {
+              "name": "Niche market dominance"
+            },
+            {
+              "name": "Transition-focused guidance"
+            },
+            {
+              "name": "Competitive moat creation"
+            }
+          ]
+        },
+        {
+          "name": "Founder Authority",
+          "children": [
+            {
+              "name": "BEng Engineering background"
+            },
+            {
+              "name": "Six Sigma logic"
+            },
+            {
+              "name": "Lived perinatal trauma/triumph"
+            }
+          ]
+        },
+        {
+          "name": "Community Integration",
+          "children": [
+            {
+              "name": "Stirling Council grant"
+            },
+            {
+              "name": "Ngank Yira profit sharing"
+            },
+            {
+              "name": "Ethical yoga posture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visibility (15%)",
+      "children": [
+        {
+          "name": "Ecosystem-Driven Discovery",
+          "children": [
+            {
+              "name": "Perth Pregnancy Expo"
+            },
+            {
+              "name": "Niche podcast guesting"
+            },
+            {
+              "name": "Homebirth Australia directory"
+            }
+          ]
+        },
+        {
+          "name": "Branded Search Management",
+          "children": [
+            {
+              "name": "Children's book overlap"
+            },
+            {
+              "name": "Local SEO optimization"
+            }
+          ]
+        },
+        {
+          "name": "Geographic Clarity",
+          "children": [
+            {
+              "name": "Scarborough location assets"
+            },
+            {
+              "name": "Detailed arrival logistics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experience (20%)",
+      "children": [
+        {
+          "name": "Deliberate Enquiry Friction",
+          "children": [
+            {
+              "name": "Discovery call vetting"
+            },
+            {
+              "name": "Safe relationship building"
+            },
+            {
+              "name": "Anti-automated booking choice"
+            }
+          ]
+        },
+        {
+          "name": "Trauma-Informed Environment",
+          "children": [
+            {
+              "name": "Children welcome policy"
+            },
+            {
+              "name": "Inclusive language"
+            },
+            {
+              "name": "Intimate home studio"
+            }
+          ]
+        },
+        {
+          "name": "Scalable Value Ladder",
+          "children": [
+            {
+              "name": "Free birth guide e-book"
+            },
+            {
+              "name": "Low-ticket Yoga Nidra tracks"
+            },
+            {
+              "name": "Empowered Pelvis Yoga Program"
+            },
+            {
+              "name": "Hybrid delivery resilience"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
